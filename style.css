@@ -1,8 +1,7 @@
 body {
-    background-color: lightslategrey;
-    display: flex;
     height: 100vh;
-    margin: 0;
+    background: black url('imagens/arranhaceu.jpg') center top no-repeat fixed;
+    background-size: cover;
 }
 
 .container {
